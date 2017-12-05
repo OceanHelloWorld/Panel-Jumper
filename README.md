@@ -12,6 +12,7 @@ Game Design game of the year!!!!
 *  Stretch the background cavas
 *  Play test with other people
 *  Music Mute, volume control
+*  Make Keyboard navigation for menu buttons
 
 ## Next Week to do ##
 *  Achievement unlock
