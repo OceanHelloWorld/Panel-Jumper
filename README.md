@@ -11,6 +11,7 @@ Game Design game of the year!!!!
 *  (Alex) Set a limit on how hard the game can be (e.g. make the panel still reachable at high level)
 *  Stretch the background cavas
 *  Play test with other people
+*  Music Mute, volume control
 
 ## Next Week to do ##
 *  Achievement unlock
